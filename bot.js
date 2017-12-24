@@ -38,4 +38,4 @@ bot.on('message', function (user, userID, channelID, message, evt) {
      }
 });
 
-client.login(process.env.Mzg5NjA3MjE5NzUyMDc1MjY0.DSGD1A.ahXgPnOcDD8yL3fxfyfBDkX0HXo);
+client.login(process.env.BOT_TOKEN);
